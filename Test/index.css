@@ -1,0 +1,11 @@
+#user{
+    margin: 10px;
+}
+#pass{
+    margin: 10px;
+}
+#login{
+    margin: 10px;
+    background-color: green;
+    color: aliceblue;
+}
